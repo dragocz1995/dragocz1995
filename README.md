@@ -7,7 +7,6 @@ Comfortable across the stack: TypeScript / Node, Python, PHP/Laravel, Next.js & 
 ### What I'm building
 
 - **[orcasynth](https://github.com/dragocz1995/orcasynth)** — Self-hosted daemon that orchestrates autonomous AI coding agents (Claude Code, OpenCode, Codex). Autopilot missions, guardrails, REST API, CLI, and a real-time web UI.
-- **[hermes-agent](https://github.com/dragocz1995/hermes-agent)** — The agent that grows with you.
 - **[asus-ryuo-iv-linux](https://github.com/dragocz1995/asus-ryuo-iv-linux)** — Linux driver for the ASUS ROG RYUO IV AIO cooler LCD, streaming live sensor data over USB HID.
 
 ### Stack I reach for
